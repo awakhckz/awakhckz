@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Philip Samuel
 - 👀 I’m interested in Continous Learning and Sleek Designing
-- 🌱 I’m currently learning Javascript Freameworks (
+- 🌱 I’m currently learning Javascript Freameworks ( Vue3, React, TypeScript )
 - 💞️ I’m looking to collaborate on all frontend projects
 - 📫 Twitter at awakhckz
 - 😄 Pronouns: I'm The Code
